@@ -1,7 +1,7 @@
 # EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
+**DATE:13.09.2025**
 
 **NAME: JAI HARISH R**
 
@@ -146,10 +146,14 @@ void IRPAIR()
 ```
 
 ## OUTPUT
+Object not Detected
 
-<img width="773" height="510" alt="image" src="https://github.com/user-attachments/assets/7dd36cd3-7083-458a-b134-47589d9cc3e8" />
+<img width="884" height="594" alt="image" src="https://github.com/user-attachments/assets/68043725-2712-4fbb-a82a-fa7636b6885d" />
 
-<img width="438" height="628" alt="image" src="https://github.com/user-attachments/assets/ebb78031-332e-4b64-89e8-a6cba60e72b2" />
+Object Detected
+
+<img width="859" height="849" alt="image" src="https://github.com/user-attachments/assets/8ce2b149-e538-4430-ab6c-a1d625875c8d" />
+
 
 ## Result
 
